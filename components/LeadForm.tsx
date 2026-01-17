@@ -132,7 +132,7 @@ export default function LeadForm() {
                 Thank You for Your Interest!
               </CardTitle>
               <CardDescription className="text-base text-green-700">
-                We've received your information and our team will contact you within 24 hours.
+                We&apos;ve received your information and our team will contact you within 24 hours.
               </CardDescription>
             </CardHeader>
             <CardContent className="text-center">
@@ -155,7 +155,7 @@ export default function LeadForm() {
               Get Started Today
             </h2>
             <p className="mt-4 text-lg text-gray-600">
-              Fill out the form below and we'll get back to you within 24 hours.
+              Fill out the form below and we&apos;ll get back to you within 24 hours.
             </p>
           </div>
 
